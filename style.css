@@ -65,9 +65,23 @@ a {
 .teaser {
     display: flex; 
     gap: 25px;
-    padding: 50px 16vw;
+    padding: 50px 11vw;
 }
 
 .box {
     flex: 1 1 0;
+} 
+
+.box p {
+    font-weight: 100;
+}
+
+#su1 {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 6px;
+    font-weight: bold;
+    padding: 7px 30px;
+    border-style: none;
+    
 }
