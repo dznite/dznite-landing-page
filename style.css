@@ -173,7 +173,9 @@ a {
     width: 1000px;
     justify-content: space-between;
     border-radius: 4px;
-    gap: 10px;
+    flex-wrap: wrap;
+    row-gap: 1em;
+    
 }
 
 .left-foot h4{
