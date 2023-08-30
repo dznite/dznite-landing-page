@@ -54,11 +54,16 @@ ul {
     gap: 30px;
 }
 
-a {
+li a {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px; 
     font-weight: 300;
+}
+
+button a, button a:visited {
+    color: inherit;
+    text-decoration: none;
 }
 
 /* <!-- TEASER --> */
