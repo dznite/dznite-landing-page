@@ -9,7 +9,7 @@
 body {
     display: flex;
     flex-direction: column;
-    font-family: roboto, sans-serif;
+    font-family: 'roboto', sans-serif;
 }
 /* margin:0; needs to be added in order to flush contents to page */
 
@@ -199,4 +199,12 @@ a {
     border-color: white;
     border-radius: 6px;
     font-weight: bold;
+}
+
+/* <!-- FOOTER --> */
+
+.footer {
+    padding: 30px;
+    text-align: center;
+    font-weight: lighter; 
 }
